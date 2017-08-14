@@ -6,7 +6,7 @@ It is really a difficult task to install OpenCV and set it up. Before installing
 * **wget** tool
 
 You might need to install some other dependencies before proceeding.
-A good tutorial for downloading it is given in [this link](https://stackoverflow.com/questions/34340578/installing-c-libraries-on-os-x)
+A good tutorial for downloading it is given in [this link](https://stackoverflow.com/questions/34340578/installing-c-libraries-on-os-x).
 
 Follow all the steps and also set the flags in `.bash_profile` as follows:
 
@@ -40,4 +40,5 @@ cp ./.libs/libjpeg.8.dylib /usr/local/opt/jpeg/lib
 ```
 
 Reference: https://stackoverflow.com/questions/32703296/dyld-library-not-loaded-usr-local-lib-libjpeg-8-dylib-homebrew-php
+
 Now you are ready to go. Enjoy working on OpenCV for C++.
