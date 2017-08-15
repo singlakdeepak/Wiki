@@ -8,6 +8,26 @@ It is really a difficult task to install OpenCV and set it up. Before installing
 You might need to install some other dependencies before proceeding.
 A good tutorial for downloading it is given in [this link](https://stackoverflow.com/questions/34340578/installing-c-libraries-on-os-x).
 
+After downloading it, the following things get displayed:
+```
+This formula is keg-only, which means it was not symlinked into /usr/local,
+because opencv3 and opencv install many of the same files.
+
+If you need to have this software first in your PATH run:
+  echo 'export PATH="/usr/local/opt/opencv3/bin:$PATH"' >> ~/.bash_profile
+
+For compilers to find this software you may need to set:
+    LDFLAGS:  -L/usr/local/opt/opencv3/lib
+    CPPFLAGS: -I/usr/local/opt/opencv3/include
+
+
+If you need Python to find bindings for this keg-only formula, run:
+  echo /usr/local/opt/opencv3/lib/python2.7/site-packages >> /usr/local/lib/python2.7/site-packages/opencv3.pth
+  mkdir -p /Users/home/.local/lib/python3.6/site-packages
+  echo 'import site; site.addsitedir("/usr/local/lib/python2.7/site-packages")' >> /Users/home/.local/lib/python3.6/site-packages/homebrew.pth
+```
+Ensure that you set all these.
+
 Follow all the steps and also set the flags in `.bash_profile` as follows:
 
 ```
