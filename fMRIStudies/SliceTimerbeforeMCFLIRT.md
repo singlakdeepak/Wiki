@@ -4,7 +4,7 @@ It is a very intuitive question and definitely Slice Time Correction should be a
 
 ## 7. At what point in the processing stream should you use it?
 
-    This is the great open question about slice timing, and it's not super-answerable. Both SPM and AFNI recommend you do it before doing realignment/motion correction, but it's not entirely clear why. The issue is this:
+This is the great open question about slice timing, and it's not super-answerable. Both SPM and AFNI recommend you do it before doing realignment/motion correction, but it's not entirely clear why. The issue is this:
 
 * If you do slice timing correction before realignment, you might look down your non-realigned timecourse for a given voxel on the border of gray matter and CSF, say, and see one TR where the head moved and the voxel sampled from CSF instead of gray. This would results in an interpolation error for that voxel, as it would attempt to interpolate part of that big giant signal into the previous voxel.
 
