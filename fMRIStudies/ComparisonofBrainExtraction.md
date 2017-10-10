@@ -19,8 +19,17 @@ as morphological operations and connected component analysis
 The dice coefficient, False Positive Rate and False Negative Rates are used as the measures for comparing the models.
 
 * [Paper on brain extraction using region labeling and morphological operations](http://www.sciencedirect.com/science/article/pii/S0010482511001284)
+    * Feature Extraction: The main feature we try to identify is the scalp or the brain. 
+        * Thresholding and 2 labeling process: An optimal intensity threshold value T<sub>opt</sub> for the pixels of the input is calculated using Ridler's method (yet to be read). It separates the scalp and the brain from background, CSF and the skull.
+        * Next, detect the boundary between the scalp and background to produce a head mask.
+        * Now, we do a 3 labelling process where the inner dark region is marked as 2.
+        * Now, we make a rough brain mask using SRP(Scalp Removal Process) or BEP (run length identification scheme).
+    * Segmentation: 
+        * Perform Binary erosion using octagonal structuring element with a 7x7 size.
+        * We calculate the connected region with the largest area and remove the rest.
 
-
+The rest of the things in the paper will be discussed later.
+ 
 * [Paper on Auto-Context based CNN for Brain Extraction](http://ieeexplore.ieee.org/document/7961201/#full-text-section)
 
 In this paper, they talk about the Auto-Context CNN. The proposed network has nine types of input features and nine corresponding pathways which are merged in two
