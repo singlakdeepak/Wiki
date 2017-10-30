@@ -1,6 +1,6 @@
 # Wiki
 ## Day-to-Day Problems and Solutions
-* [Setting Up OpenCV](SetOpenCV.md)
+* [Setting Up OpenCV](setOpenCV.md)
 * [Setting Up VNC](SetVNC.md) 
 * [Installing Intel-MKL](InstallingMKL.md)
 ## fMRI day to day Problems and Solutions
