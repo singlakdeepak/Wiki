@@ -1,6 +1,6 @@
 #!/bin/bash
 preHTTPS="http://htmlpreview.github.io/?https://github.com/singlakdeepak"
-PROJECTFOLDER=Wiki/deaddiction_analysis
+PROJECTFOLDER=Wiki/tree/master/deaddiction_analysis
 
 thr=5
 # THRESHOLDED=${CUSTOM_MASKS}/thresholded_at_${thr}
