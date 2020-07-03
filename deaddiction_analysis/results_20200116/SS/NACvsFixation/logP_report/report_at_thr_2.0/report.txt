@@ -1,0 +1,283 @@
+=====[ /mnt/project2/home/ee3140506/Deaddiction_Project/results_20200116/SS/NACvsFixation/NACvsFixation_logPvals1.nii.gz | Harvard-Oxford Subcortical Structural Atlas ]=====
+ClusterIndex	Voxels	MAX	MAX X (mm)	MAX Y (mm)	MAX Z (mm)	COG X (mm)	COG Y (mm)	COG Z (mm)
+46	43064	13	36	-50	-18	6.5	-55.8	9.99
+45	5179	7.81	-54	-22	56	-43.9	-14.8	52.3
+44	216	3.64	-16	52	-18	-1.36	44.5	-13.9
+43	178	4.6	-54	36	22	-49.3	34.5	19.7
+42	57	3.35	10	-76	-38	10.6	-76.8	-40.8
+41	51	3.57	-48	-18	24	-48	-18.5	23.7
+40	50	3.06	-2	-36	-32	-2.03	-35.9	-33
+39	42	2.77	-16	-84	46	-14	-85.2	47.6
+38	35	4.45	-20	72	16	-18.2	71.7	17.2
+37	34	2.99	36	-8	20	39.4	-13	22.2
+36	23	2.53	-22	-44	-42	-22.6	-43.1	-42
+35	20	2.82	-12	-52	14	-11.4	-52.2	14.2
+34	19	2.65	-14	-74	-40	-13.9	-75	-40.5
+33	16	2.53	18	48	-10	19	46.3	-8.89
+32	15	2.23	-18	-60	6	-15.9	-60.1	4.93
+31	13	2.64	30	14	-28	29.1	14.3	-26.9
+30	7	2.69	-22	40	54	-22.3	41.1	54.5
+29	6	2.36	-54	2	-4	-55	2.67	-5.3
+28	6	2.23	-14	32	4	-14.7	32.3	2.67
+27	5	2.31	-56	26	38	-55.2	26.4	37.2
+26	4	2.51	-10	76	10	-9.49	76	12.4
+25	3	2.17	-64	-4	-2	-64	-4.66	-2.65
+24	2	2.15	0	-70	-26	0.982	-70	-26
+23	2	2.05	26	0	-44	26	-0.993	-44
+22	2	2.67	24	0	72	24	0.911	72
+21	2	2.08	-20	48	-18	-20	48	-19
+20	2	2.17	-12	62	44	-12	62	45
+19	1	2.03	38	26	-32	38	26	-32
+18	1	2.32	-44	34	46	-44	34	46
+17	1	2.21	-14	58	46	-14	58	46
+16	1	2.14	-16	50	50	-16	50	50
+15	1	2	66	0	30	66	0	30
+14	1	2.24	20	72	26	20	72	26
+13	1	2.09	46	58	22	46	58	22
+12	1	2.48	26	74	18	26	74	18
+11	1	2.03	-50	48	18	-50	48	18
+10	1	2.06	-42	14	-30	-42	14	-30
+9	1	2	-40	8	-28	-40	8	-28
+8	1	2.01	-4	-30	-22	-4	-30	-22
+7	1	2.02	-30	28	10	-30	28	10
+6	1	2.02	64	-4	10	64	-4	10
+5	1	2	-64	-16	2	-64	-16	2
+4	1	2.1	2	-28	-14	2	-28	-14
+3	1	2.04	-12	2	-16	-12	2	-16
+2	1	2.02	2	2	-18	2	2	-18
+1	1	2.19	-62	-2	14	-62	-2	14
+------------------------------------------
+Structures to which each center of mass belongs to:
+46,6.5,-55.8,9.99,Harvard-Oxford Subcortical Structural Atlas,93% Right Cerebral Cortex , 7% Right Cerebral White Matter
+45,-43.9,-14.8,52.3,Harvard-Oxford Subcortical Structural Atlas,78% Left Cerebral Cortex , 17% Left Cerebral White Matter
+44,-1.36,44.5,-13.9,Harvard-Oxford Subcortical Structural Atlas,52% Right Cerebral Cortex , 45% Left Cerebral Cortex 
+43,-49.3,34.5,19.7,Harvard-Oxford Subcortical Structural Atlas,91% Left Cerebral Cortex , 6% Left Cerebral White Matter
+42,10.6,-76.8,-40.8,Harvard-Oxford Subcortical Structural Atlas,No label found!
+41,-48,-18.5,23.7,Harvard-Oxford Subcortical Structural Atlas,57% Left Cerebral White Matter, 43% Left Cerebral Cortex 
+40,-2.03,-35.9,-33,Harvard-Oxford Subcortical Structural Atlas,100% Brain-Stem
+39,-14,-85.2,47.6,Harvard-Oxford Subcortical Structural Atlas,57% Left Cerebral Cortex , 5% Left Cerebral White Matter
+38,-18.2,71.7,17.2,Harvard-Oxford Subcortical Structural Atlas,35% Left Cerebral Cortex 
+37,39.4,-13,22.2,Harvard-Oxford Subcortical Structural Atlas,53% Right Cerebral White Matter, 47% Right Cerebral Cortex 
+36,-22.6,-43.1,-42,Harvard-Oxford Subcortical Structural Atlas,No label found!
+35,-11.4,-52.2,14.2,Harvard-Oxford Subcortical Structural Atlas,59% Left Cerebral White Matter, 41% Left Cerebral Cortex 
+34,-13.9,-75,-40.5,Harvard-Oxford Subcortical Structural Atlas,No label found!
+33,19,46.3,-8.89,Harvard-Oxford Subcortical Structural Atlas,87% Right Cerebral White Matter, 13% Right Cerebral Cortex 
+32,-15.9,-60.1,4.93,Harvard-Oxford Subcortical Structural Atlas,71% Left Cerebral Cortex , 29% Left Cerebral White Matter
+31,29.1,14.3,-26.9,Harvard-Oxford Subcortical Structural Atlas,80% Right Cerebral Cortex 
+30,-22.3,41.1,54.5,Harvard-Oxford Subcortical Structural Atlas,5% Left Cerebral Cortex 
+29,-55,2.67,-5.3,Harvard-Oxford Subcortical Structural Atlas,68% Left Cerebral Cortex , 31% Left Cerebral White Matter
+28,-14.7,32.3,2.67,Harvard-Oxford Subcortical Structural Atlas,92% Left Cerebral White Matter, 8% Left Lateral Ventrical
+27,-55.2,26.4,37.2,Harvard-Oxford Subcortical Structural Atlas,8% Left Cerebral Cortex 
+26,-9.49,76,12.4,Harvard-Oxford Subcortical Structural Atlas,5% Left Cerebral Cortex 
+25,-64,-4.66,-2.65,Harvard-Oxford Subcortical Structural Atlas,60% Left Cerebral Cortex , 1% Left Cerebral White Matter
+24,0.982,-70,-26,Harvard-Oxford Subcortical Structural Atlas,No label found!
+23,26,-0.993,-44,Harvard-Oxford Subcortical Structural Atlas,91% Right Cerebral Cortex , 4% Right Cerebral White Matter
+22,24,0.911,72,Harvard-Oxford Subcortical Structural Atlas,53% Right Cerebral Cortex 
+21,-20,48,-19,Harvard-Oxford Subcortical Structural Atlas,60% Left Cerebral Cortex 
+20,-12,62,45,Harvard-Oxford Subcortical Structural Atlas,No label found!
+19,38,26,-32,Harvard-Oxford Subcortical Structural Atlas,39% Right Cerebral Cortex , 2% Right Cerebral White Matter
+18,-44,34,46,Harvard-Oxford Subcortical Structural Atlas,No label found!
+17,-14,58,46,Harvard-Oxford Subcortical Structural Atlas,No label found!
+16,-16,50,50,Harvard-Oxford Subcortical Structural Atlas,1% Left Cerebral Cortex 
+15,66,0,30,Harvard-Oxford Subcortical Structural Atlas,22% Right Cerebral Cortex 
+14,20,72,26,Harvard-Oxford Subcortical Structural Atlas,No label found!
+13,46,58,22,Harvard-Oxford Subcortical Structural Atlas,No label found!
+12,26,74,18,Harvard-Oxford Subcortical Structural Atlas,No label found!
+11,-50,48,18,Harvard-Oxford Subcortical Structural Atlas,2% Left Cerebral Cortex 
+10,-42,14,-30,Harvard-Oxford Subcortical Structural Atlas,52% Left Cerebral Cortex , 47% Left Cerebral White Matter
+9,-40,8,-28,Harvard-Oxford Subcortical Structural Atlas,78% Left Cerebral White Matter, 22% Left Cerebral Cortex 
+8,-4,-30,-22,Harvard-Oxford Subcortical Structural Atlas,100% Brain-Stem
+7,-30,28,10,Harvard-Oxford Subcortical Structural Atlas,69% Left Cerebral White Matter, 31% Left Cerebral Cortex 
+6,64,-4,10,Harvard-Oxford Subcortical Structural Atlas,83% Right Cerebral Cortex , 7% Right Cerebral White Matter
+5,-64,-16,2,Harvard-Oxford Subcortical Structural Atlas,77% Left Cerebral Cortex , 17% Left Cerebral White Matter
+4,2,-28,-14,Harvard-Oxford Subcortical Structural Atlas,89% Brain-Stem
+3,-12,2,-16,Harvard-Oxford Subcortical Structural Atlas,38% Left Cerebral Cortex , 1% Left Cerebral White Matter
+2,2,2,-18,Harvard-Oxford Subcortical Structural Atlas,1% Right Cerebral Cortex 
+1,-62,-2,14,Harvard-Oxford Subcortical Structural Atlas,86% Left Cerebral Cortex , 5% Left Cerebral White Matter
+------------------------------------------
+Structures to which each cluster belongs to:
+
+Cluster #46
+Left Cerebral White Matter:13.5554
+Left Cerebral Cortex :19.3335
+Left Lateral Ventrical:0.247171
+Left Thalamus:1.21123
+Left Caudate:0.59984
+Left Putamen:1.39329
+Left Pallidum:0.215128
+Brain-Stem:0.1646
+Left Hippocampus:0.0646317
+Left Amygdala:0.147438
+Left Accumbens:0.146051
+Right Cerebral White Matter:18.0166
+Right Cerebral Cortex :27.4341
+Right Lateral Ventricle:0.144264
+Right Thalamus:1.21396
+Right Caudate:0.191123
+Right Putamen:1.23923
+Right Pallidum:0.195495
+Right Hippocampus:0.506091
+Right Amygdala:0.312728
+Right Accumbens:0.100015
+
+Cluster #45
+Left Cerebral White Matter:21.6716
+Left Cerebral Cortex :53.2286
+
+Cluster #44
+Left Cerebral White Matter:17.9047
+Left Cerebral Cortex :34.9393
+Right Cerebral White Matter:16.436
+Right Cerebral Cortex :29.707
+
+Cluster #43
+Left Cerebral White Matter:10.3795
+Left Cerebral Cortex :47.1594
+
+Cluster #42
+
+Cluster #41
+Left Cerebral White Matter:71.3699
+Left Cerebral Cortex :28.6232
+
+Cluster #40
+Brain-Stem:91.1555
+
+Cluster #39
+Left Cerebral White Matter:4.84876
+Left Cerebral Cortex :44.3332
+
+Cluster #38
+Left Cerebral White Matter:0.026699
+Left Cerebral Cortex :9.69118
+
+Cluster #37
+Right Cerebral White Matter:72.5909
+Right Cerebral Cortex :27.4091
+
+Cluster #36
+Brain-Stem:0.0377771
+
+Cluster #35
+Left Cerebral White Matter:75.8867
+Left Cerebral Cortex :24.1061
+
+Cluster #34
+
+Cluster #33
+Right Cerebral White Matter:95.0015
+Right Cerebral Cortex :4.99851
+
+Cluster #32
+Left Cerebral White Matter:15.7182
+Left Cerebral Cortex :83.8233
+
+Cluster #31
+Right Cerebral White Matter:0.0429842
+Right Cerebral Cortex :66.0442
+Right Amygdala:0.00240743
+
+Cluster #30
+Left Cerebral Cortex :1.63753
+
+Cluster #29
+Left Cerebral White Matter:21.1679
+Left Cerebral Cortex :77.3031
+
+Cluster #28
+Left Cerebral White Matter:89.9235
+Left Lateral Ventrical:10.0675
+Left Caudate:0.00902406
+
+Cluster #27
+Left Cerebral Cortex :1.91887
+
+Cluster #26
+Left Cerebral Cortex :3.73005
+
+Cluster #25
+Left Cerebral White Matter:0.350569
+Left Cerebral Cortex :52.3764
+
+Cluster #24
+
+Cluster #23
+Right Cerebral White Matter:4.23785
+Right Cerebral Cortex :92.333
+
+Cluster #22
+Right Cerebral White Matter:0.249576
+Right Cerebral Cortex :48.6794
+
+Cluster #21
+Left Cerebral White Matter:2.74402
+Left Cerebral Cortex :72.7769
+
+Cluster #20
+
+Cluster #19
+Right Cerebral White Matter:2.32576
+Right Cerebral Cortex :38.7053
+
+Cluster #18
+Left Cerebral Cortex :0.483843
+
+Cluster #17
+Left Cerebral Cortex :0.0156229
+
+Cluster #16
+Left Cerebral Cortex :1.03088
+
+Cluster #15
+Right Cerebral Cortex :22.163
+
+Cluster #14
+
+Cluster #13
+Right Cerebral Cortex :0.0752746
+
+Cluster #12
+
+Cluster #11
+Left Cerebral Cortex :1.87604
+
+Cluster #10
+Left Cerebral White Matter:47.4055
+Left Cerebral Cortex :52.0588
+
+Cluster #9
+Left Cerebral White Matter:77.651
+Left Cerebral Cortex :22.349
+
+Cluster #8
+Brain-Stem:100
+
+Cluster #7
+Left Cerebral White Matter:69.212
+Left Cerebral Cortex :30.6602
+
+Cluster #6
+Right Cerebral White Matter:6.96009
+Right Cerebral Cortex :83.3662
+
+Cluster #5
+Left Cerebral White Matter:17.2582
+Left Cerebral Cortex :77.312
+
+Cluster #4
+Brain-Stem:88.78
+
+Cluster #3
+Left Cerebral White Matter:0.641145
+Left Cerebral Cortex :37.6137
+Left Putamen:0.0634403
+Left Amygdala:0.00169878
+Left Accumbens:0.379106
+
+Cluster #2
+Left Cerebral Cortex :0.0382311
+Right Cerebral Cortex :0.971406
+
+Cluster #1
+Left Cerebral White Matter:4.70012
+Left Cerebral Cortex :85.653

@@ -1,0 +1,6 @@
+/mnt/project2/home/ee3140506/Deaddiction_Project/custom_masks/thresholded_at_5_cont_masked/MSvsSS/ARCvsFixation/thresolded_at_2.0/P_masks/Left_Caudate_thr_thr_cont.nii.gz
+/mnt/project2/home/ee3140506/Deaddiction_Project/custom_masks/thresholded_at_5_cont_masked/MSvsSS/ARCvsFixation/thresolded_at_2.0/P_masks/Left_Pallidum_thr_thr_cont.nii.gz
+/mnt/project2/home/ee3140506/Deaddiction_Project/custom_masks/thresholded_at_5_cont_masked/MSvsSS/ARCvsFixation/thresolded_at_2.0/P_masks/Left_Putamen_thr_thr_cont.nii.gz
+/mnt/project2/home/ee3140506/Deaddiction_Project/custom_masks/thresholded_at_5_cont_masked/MSvsSS/ARCvsFixation/thresolded_at_2.0/P_masks/Right_Caudate_thr_thr_cont.nii.gz
+/mnt/project2/home/ee3140506/Deaddiction_Project/custom_masks/thresholded_at_5_cont_masked/MSvsSS/ARCvsFixation/thresolded_at_2.0/P_masks/Right_Pallidum_thr_thr_cont.nii.gz
+/mnt/project2/home/ee3140506/Deaddiction_Project/custom_masks/thresholded_at_5_cont_masked/MSvsSS/ARCvsFixation/thresolded_at_2.0/P_masks/Right_Putamen_thr_thr_cont.nii.gz
