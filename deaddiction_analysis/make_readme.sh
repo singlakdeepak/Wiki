@@ -1,5 +1,6 @@
 #!/bin/bash
-preHTTPS="http://htmlpreview.github.io/?https://github.com/singlakdeepak"
+prepreHTTPS="http://htmlpreview.github.io/?"
+HTTPS="https://github.com/singlakdeepak"
 PROJECTFOLDER=Wiki/tree/master/deaddiction_analysis
 
 thr=5
@@ -40,8 +41,8 @@ do
 Pfolder=${NEW_CONT_MASK_FOLDER}/${FOLDERI}/${CONTJ}/thresolded_at_${cont_thr}/P_masks
 Qfolder=${NEW_CONT_MASK_FOLDER}/${FOLDERI}/${CONTJ}/thresolded_at_${cont_thr}/Q_masks
 echo "* **Threshold = ${cont_thr}** applied to the statistics" >> readme.md
-echo -e "\t * For **P-values**: [Cluster Report](${PREPORTNAME}/report_at_thr_${cont_thr}/report.txt), [Average time series](${preHTTPS}/${PROJECTFOLDER}/${Pfolder}/bokeh_timeseries_plo.png)">>readme.md
-echo -e "\t * For **Q-values**: [Cluster Report](${QREPORTNAME}/report_at_thr_${cont_thr}/report.txt), [Average time series](${preHTTPS}/${PROJECTFOLDER}/${Qfolder}/bokeh_timeseries_plo.png)">>readme.md
+echo -e "\t * For **P-values**: [Cluster Report](${PREPORTNAME}/report_at_thr_${cont_thr}/report.txt), [Average time series](${HTTPS}/${PROJECTFOLDER}/${Pfolder}/bokeh_timeseries_plo.png)">>readme.md
+echo -e "\t * For **Q-values**: [Cluster Report](${QREPORTNAME}/report_at_thr_${cont_thr}/report.txt), [Average time series](${HTTPS}/${PROJECTFOLDER}/${Qfolder}/bokeh_timeseries_plo.png)">>readme.md
 echo >> readme.md
 
 done
